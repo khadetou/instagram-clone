@@ -1,3 +1,6 @@
+body {
+  @apply bg-bg-slate-55;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

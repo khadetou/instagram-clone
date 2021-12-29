@@ -4,6 +4,9 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    colors: {
+      "bg-slate-55": "#fafafa",
+    },
     extend: {},
   },
   plugins: [],
